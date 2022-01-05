@@ -1,2 +1,12 @@
-# DATAFACTORY
+ DATAFACTORY
 - Desenvolvimentos e grupos de recursos e recursos e em seguida provisionamento de Pipeline
+- 
+-✍ PASSO A PASSO DOS MEUS ESTUDOS PARA DESENVOLVER UMA PALICAÇÃO NO MICROSOFT AZURE!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Criar Grupo de Recursos ( por norma de boas práticas a Microsoft recomenda que o nome do grupo de recurso deve ter no inicio "rg" e algum outro nome  que facilite identificar dos outros colegas de trabalho).
+- Criar uma Conta de armazenamento [Blob Storage], recurso aonde ficam armazenados todos arquivos de varias fontes sejam eles (csv, parquet, txt, excel... etc).]
+- Provisionamento do Data Factory recurso aonde sera feito todo processo de tratamento dos dados atraves dos Pipelines e por norma de boas práticas a Microsoft recomenda que começa com o nome de "adf" e algum outro nome que facilita a identicação dos outros colegas.
+-Provisionamento do Azure SQL DATABASE  a Microsoft recomnda usar as inicais "sql" we algum outro nome que ajude a identificar com os demais projetos dos outros colegas.
+- Fazer a configuração do Integration Runtime e habita-lo.
+- Criar o Linked Services e a microsoft recomenda por norma de boas práticas usar as inicias "ls" e algum outro nome que seja de fácil identificação.
+- Criar o servidor e realizr a configuração.
