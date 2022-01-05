@@ -1,7 +1,7 @@
  DATAFACTORY
 - Desenvolvimentos e grupos de recursos e recursos e em seguida provisionamento de Pipeline
 - 
--✍ PASSO A PASSO DOS MEUS ESTUDOS PARA DESENVOLVER UMA PALICAÇÃO NO MICROSOFT AZURE!
+-✍ PASSO A PASSO DOS MEUS ESTUDOS PARA DESENVOLVER UMA APLICAÇÃO NO MICROSOFT AZURE!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Criar Grupo de Recursos ( por norma de boas práticas a Microsoft recomenda que o nome do grupo de recurso deve ter no inicio "rg" e algum outro nome  que facilite identificar dos outros colegas de trabalho).
 - Criar uma Conta de armazenamento [Blob Storage], recurso aonde ficam armazenados todos arquivos de varias fontes sejam eles (csv, parquet, txt, excel... etc).]
