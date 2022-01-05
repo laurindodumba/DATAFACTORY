@@ -1,0 +1,9 @@
+{
+	"name": "adf-dumba",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9db68364-53a7-4474-ab20-5801335b7e85",
+		"tenantId": "f2554c8d-f8a7-4d38-b534-98737c39f026"
+	}
+}
